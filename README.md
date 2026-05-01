@@ -40,3 +40,26 @@ Unlike traditional QA, this project focuses on:
 ## 📂 Project Structure
 
 AI-driven test automation using Playwright, focusing on real-world scenarios like edge cases, session handling, and API failure simulation.
+## 🎯 Goals
+
+- Build strong AI-driven testing strategies  
+- Simulate real user behavior  
+- Improve automation quality beyond basic scripts  
+
+---
+
+## 📈 Future Enhancements
+
+- Integration with CI/CD pipelines  
+- Advanced AI-based test case generation  
+- Performance & load testing scenarios  
+
+---
+
+## 👩‍💻 Author
+
+Developed as part of continuous learning in **AI Testing, Automation, and QA Engineering**
+
+---
+
+⭐ If you find this useful, feel free to explore and contribute!
